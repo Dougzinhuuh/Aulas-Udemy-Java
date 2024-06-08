@@ -1,5 +1,6 @@
 # Aulas-Udemy-Java
-Códigos fontes do curso Curso completo de Java
+
+Códigos fontes do curso Curso completo de Java da plataforma [Udemy](https://www.udemy.com)
 
 ## 📚 Conteudos adicionais
 
